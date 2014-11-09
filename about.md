@@ -19,7 +19,7 @@ Also I have passion for IT technologies and how new software could help other in
 * Schueco Schucal and Wicona Wictop
  
  
- - item
+ - asdasd
 - item
 - item
 
