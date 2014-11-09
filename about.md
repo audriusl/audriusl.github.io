@@ -2,14 +2,23 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I'm facades engineer working as design manager at Fasadglas Bäcklin in Stockholm. I'm working in this branch from 2004 and along the way I learned :
+* Aluminium - glass facades system like Schueco and Wicona
+* Ventilated facades systems like Eurofox and similar
+* Solar panels integration into facades
+* Certification of building energy performance
+* Energy audits of public buildings
+* Lecturing Autodesk Autocad
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Also I have passion for IT technologies and how new software could help other industries. Through this passion I get knowledge and I still mastering this software:
+* Autodesk Autocad, Revit, Vasari, Dynamo, Inventor
+* Trimble Sketchup
+* Schueco Schucal and Wicona Wictop
+ 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[audrius@lukosius.lt](mailto:audrius@lukosius.lt)
