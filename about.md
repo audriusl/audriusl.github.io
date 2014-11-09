@@ -13,7 +13,7 @@ I'm facades engineer working as design manager at Fasadglas Bäcklin in Stockhol
 * Energy audits of public buildings
 * Lecturing Autodesk Autocad
 
-Also I have passion for IT technologies and how new software could help other industries. Through this passion I get knowledge and I still mastering this software:
+Also I have passion for IT technologies and how new software could help other industries such as glass facades industry. Through this passion I get knowledge and I still mastering this software:
 * Autodesk Autocad, Revit, Vasari, Dynamo, Inventor
 * Trimble Sketchup
 * Schueco Schucal and Wicona Wictop
