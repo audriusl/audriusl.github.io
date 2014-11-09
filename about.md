@@ -18,6 +18,12 @@ Also I have passion for IT technologies and how new software could help other in
 * Trimble Sketchup
 * Schueco Schucal and Wicona Wictop
  
+ 
+ - item
+- item
+- item
+
+
 
 ### Contact me
 
