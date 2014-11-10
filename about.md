@@ -12,6 +12,7 @@ I'm facades engineer working as design manager at Fasadglas Bäcklin in Stockhol
 - Certification of building energy performance
 - Energy audits of public buildings
 - Lecturing Autodesk Autocad
+
 - Aluminium - glass facades system like Schueco and Wicona
 - Ventilated facades systems like Eurofox and similar
 - Solar panels integration into facades
