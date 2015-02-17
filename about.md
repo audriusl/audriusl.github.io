@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I'm facades engineer working as design manager at Fasadglas Bäcklin in Stockholm. I'm working in this branch from 2004 and along the way I learned:
+I'm facades design manager working as design manager at Fasadglas Bäcklin in Stockholm. I'm working in this branch from 2004 and along the way I learned:
 
 - Aluminium glas facades systems like Schueco and Wicona
 - Ventilated facades systems like Eurofox and similar
